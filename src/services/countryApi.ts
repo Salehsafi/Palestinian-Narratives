@@ -1,6 +1,6 @@
 
 // Using a more stable API key setup - the original key may be expired or rate-limited
-const API_KEY = "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";
+const API_KEY = "Write_Your_API_Key_Here";
 
 export interface CountryInfo {
   name: string;
